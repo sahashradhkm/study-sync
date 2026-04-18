@@ -1,5 +1,7 @@
 # StudySync - Capstone Web Project (23CSE404)
 
+**Live Demo:** [https://sahashradh.fwh.is/](https://sahashradh.fwh.is/)
+
 StudySync is a multi-page student productivity web application built to satisfy the requirements of the Web Technologies Capstone Project.
 
 ## Project Purpose
